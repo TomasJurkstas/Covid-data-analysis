@@ -22,13 +22,13 @@ The goal is to provide evidence-based guidance for decision-makers in effectivel
 To run the project locally, follow these steps:
 
 Clone the project repository:
-`git clone https://github.com/TuringCollegeSubmissions/tjurks-DWWP.4`
+`git clone https://github.com/TomasJurkstas/Covid-data-analysis`
 
 Extract archive files in datasets and maps folders into their respective folders.
 
 Install the required dependencies:
-`pip install -r tjurks-DWWP.4/requirements.txt`
+`pip install -r Covid-data-analysis/requirements.txt`
 
 Run the project using your tool of choice for IPython Notebooks, for example jupyter notebooks:
 
-`jupyter notebook tjurks-DWWP.4/covid_analysis.ipynb`
+`jupyter notebook Covid-data-analysis/covid_analysis.ipynb`
